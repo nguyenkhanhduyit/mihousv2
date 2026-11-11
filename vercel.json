@@ -1,0 +1,6 @@
+{
+  "redirects": [{"source":"/lien-he","destination":"/","permanent":true}],
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
