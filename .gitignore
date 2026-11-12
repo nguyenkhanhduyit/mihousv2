@@ -5,5 +5,3 @@ dist/
 server/data/*.json
 public/uploads/*
 !public/uploads/.gitkeep
-node_modules/
-dist/
